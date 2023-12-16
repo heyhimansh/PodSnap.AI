@@ -1,6 +1,6 @@
 # 🎙️ Abstractive Podcast Summarization 📄
 
-This repository contains a final project realized for the *Natural Language Processing* course of the [Master's degree in Artificial Intelligence](https://corsi.unibo.it/2cycle/artificial-intelligence), University of Bologna.
+This repository contains a Third year project realized for the Software Engineering – CO301, [DELHI TECHNOLOGICAL UNIVERSITY](http://www.dtu.ac.in/).
 
 ## Description
 
@@ -40,6 +40,7 @@ Alternatively you can run the [summarization script](./compute_summary.py) passi
 python compute_summary.py transcript_example.txt
 ```
 
+
 ## Results
 [BERTScore](https://github.com/Tiiiger/bert_score) has been chosen as semantic metric to evaluate the results on the test set, as shown by the table below our model outperform the `bart-large-cnn` baseline:
 
@@ -50,6 +51,9 @@ python compute_summary.py transcript_example.txt
 
 
 This is an example of the prediction made by the fine-tuned model:
+
+![image](https://github.com/heyhimansh/PodSnap.AI/assets/72097380/e8fe0422-6467-4138-bfb3-af40c9ed373e)
+
 ```
 CREATOR-PROVIDED DESCRIPTION:  
     In this episode, I talk about how we have to give up perfection in order to grow in our relationship with God.
@@ -76,16 +80,10 @@ We use Git for versioning.
 
 ## Group members
 
-| Reg No. |   Name    |  Surname  |                 Email                  |                       Username                        |
-| :-----: | :-------: | :-------: | :------------------------------------: | :---------------------------------------------------: |
-| 1005271 | Giuseppe  |   Boezio  | `giuseppe.boezio@studio.unibo.it`      | [_giuseppeboezio_](https://github.com/giuseppeboezio) |
-|  983806 | Simone    |  Montali  |    `simone.montali@studio.unibo.it`    |         [_montali_](https://github.com/montali)         |
-|  997317 | Giuseppe  |    Murro  |    `giuseppe.murro@studio.unibo.it`    |         [_gmurro_](https://github.com/gmurro)         |
+| Roll No.    |   Name    |  Surname  |                 Email               |                       Username                   |
+| :---------: | :-------: | :-------: | :---------------------------------: | :----------------------------------------------: |
+| 2K21/CO/200 | HIMANSHU  |           | `himanshuaman14@gmail.com`          |    [heyHimansh](https://github.com/heyhimansh)   |
+| 2K21/CO/184 | HARSHIT   |  CHOPRA   |    `harshitchopra2003@gmail.com`    |      [MadVIJ](https://github.com/MadVij2021)     |
 
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
 
 
