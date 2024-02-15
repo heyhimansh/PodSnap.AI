@@ -86,4 +86,9 @@ We use Git for versioning.
 | 2K21/CO/184 | HARSHIT   |  CHOPRA   |    `harshitchopra2003@gmail.com`    |      [MadVIJ](https://github.com/MadVij2021)     |
 
 
+</br>
+<p align = "center">
+Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repo
+</p>
+
 
